@@ -1,0 +1,4 @@
+Gradient maximum error: 5.204759e-11
+Initial training MSE: 1.311427e-01
+Final training MSE: 3.180046e-24
+Held-out MSE: 3.184580e-24
